@@ -111,7 +111,7 @@ current-students:
 
   - name: <a href="https://chri-lab.github.io/people/farshad/">Farshad Haque Daryakenari</a>
     lastname: Haque Daryakenari
-    photo: backup/farshad.jpeg
+    photo: backup/farshad.png
     info: PhD Student
     start: November 2024
     advisor:
@@ -123,7 +123,7 @@ current-students:
 postdoc:
   - name: <a href="https://chri-lab.github.io/people/audrey/">Audrey Balaska</a>
     lastname: Balaska
-    photo: backup/audrey.jpg
+    photo: backup/audrey.jpeg
     info: Postdoctoral Research Fellow
     start: June 2024
     social:
