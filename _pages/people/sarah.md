@@ -30,27 +30,6 @@ excerpt: "Personal website of Sarah"
   </ul>
 </div>
 
-## Sketch
-
-<p>
-I am a second year Ph.D. student in ..... 
-I am working with Wafa and Jorge. 
-I am broadly interested in ..... 
-Before joining XXXX, I received my B.S. and M.S. degree in XXXX.
-</p>
-
-## Work Experience
-
-<p>
-<em><strong>Research Assistant (Aug 2019 - Present)</strong></em><br>
-XXXXX
-</p>
-
-<p>
-<em><strong>Research Intern (May 2021 - Aug 2021)</strong></em><br>
-XXXXX.<br>
-Mentor: XXXXX<br>
-</p>
 
 ## Publications
 

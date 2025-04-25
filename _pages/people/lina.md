@@ -29,45 +29,6 @@ excerpt: "Personal webpage of Lina"
   </ul>
 </div>
 
-## Biography
-
-<p>
-I received my MS XXXXX
-
-My current research interest is XXXXX
-
-If you have any questions, please contact me at [at]unsw[dot]edu[dot]au
-</p>
-
-
-## Teaching Experience
-
-<p>
-<em>Teaching Assistant at UNSW</em><br>
-<b>Course:</b> XXXX, Fall 2022
-</p>
-
-## Work Experience
-
-<p>
-<em> Research Assistant (XXXX - XXXX)</em><br>
-Department of XXXX, University of XXXXX.<br>
-</p>
-
-<p>
-<em>Software Engineer Intern, XXXXX<br>
-</p>
-
-<p></p>
-{% if member.awards %}
-## Awards
-{% endif %}
-
-{% for award in member.awards %}
-<ul style="overflow: hidden">
-<li> {{ award }} </li>
-</ul>
-{% endfor %}
 
 ## Publications
 

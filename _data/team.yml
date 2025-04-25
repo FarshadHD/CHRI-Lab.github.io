@@ -109,17 +109,24 @@ current-students:
       - Jon Eden
       - Wafa Johal
 
+  - name: <a href="https://chri-lab.github.io/people/farshad/">Farshad Haque Daryakenari</a>
+    lastname: Haque Daryakenari
+    photo: backup/farshad.jpeg
+    info: PhD Student
+    start: November 2024
+    advisor:
+      - Denny Oetomo
+      - Wafa Johal
+      - Jon Eden
+
+
 postdoc:
-  - name: Audrey Balaska
+  - name: <a href="https://chri-lab.github.io/people/audrey/">Audrey Balaska</a>
     lastname: Balaska
     photo: backup/audrey.jpg
     info: Postdoctoral Research Fellow
     start: June 2024
-    email: ""
-    education:
-      - M.S. and Ph.D. from the XXXX
-      - B.S. from XXXX
     social:
       google-scholar: http://scholar.google.com/citations?user=bgij4b8AAAAJ
-      linkedin: http://www.linkedin.com/in/
-      website: https://
+      website: https://sites.google.com/view/audrey-balaska-engineering/home
+  

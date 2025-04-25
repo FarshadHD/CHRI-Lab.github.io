@@ -29,32 +29,6 @@ excerpt: "Personal webpage of Ramtin"
   </ul>
 </div>
 
-## Biography
-
-<p>
-I received my MS XXXXX
-
-My current research interest is XXXXX
-
-If you have any questions, please contact me at [at]unsw[dot]edu[dot]au
-</p>
-
-
-## Teaching Experience
-
-## Work Experience
-
-
-<p></p>
-{% if member.awards %}
-## Awards
-{% endif %}
-
-{% for award in member.awards %}
-<ul style="overflow: hidden">
-<li> {{ award }} </li>
-</ul>
-{% endfor %}
 
 ## Publications
 

@@ -29,37 +29,7 @@ excerpt: "Personal webpage of Jiahe"
   </ul>
 </div>
 
-## Biography
 
-<p>
-
-My current research interest is XXXXX
-
-If you have any questions, please contact me at [at]unimelb[dot]edu[dot]au
-</p>
-
-
-## Teaching Experience
-
-<p>
-<em>Teaching Assistant at XXX</em><br>
-<b>Course:</b> XXXX, Fall 2022
-</p>
-
-## Work Experience
-
-
-
-<p></p>
-{% if member.awards %}
-## Awards
-{% endif %}
-
-{% for award in member.awards %}
-<ul style="overflow: hidden">
-<li> {{ award }} </li>
-</ul>
-{% endfor %}
 
 ## Publications
 

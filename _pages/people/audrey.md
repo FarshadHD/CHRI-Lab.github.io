@@ -1,12 +1,12 @@
 ---
-title: "Chri Lab - Jian"
+title: "Chri Lab - Audrey"
 layout: personal
-permalink: /people/jian/
+permalink: /people/audrey/
 sitemap: false
-excerpt: "Personal webpage of Jian"
+excerpt: "Personal webpage of Audrey"
 ---
 {%- assign data = site.data.people -%}
-{%- assign member = data.jian -%}
+{%- assign member = data.ausdrey -%}
 
 <div class="row">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="22%" style="float: left" />
@@ -35,6 +35,6 @@ excerpt: "Personal webpage of Jian"
 
 <div class="publications">
 
-{% bibliography -f people/jian%}
+{% bibliography -f people/audrey%}
 
 </div>
