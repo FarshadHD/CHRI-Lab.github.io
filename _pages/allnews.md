@@ -7,7 +7,7 @@ permalink: /allnews.html
 ---
 
 # News
-
+<!-- Trigger rebuild -->
 <div class="well">
 {% for article in site.data.news %}
 {%- if article.img %}
